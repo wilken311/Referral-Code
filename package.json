@@ -1,0 +1,14 @@
+{
+  "name": "referral-code",
+  "version": "1.0.0",
+  "description": "Generating and Updating Referral Code for ZZAGL",
+  "main": "createReferralCode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wm",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.853.0"
+  }
+}
